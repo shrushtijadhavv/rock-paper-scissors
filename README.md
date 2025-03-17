@@ -34,7 +34,7 @@ The game features a clean, modern interface with animated buttons and visual fee
 Simply clone this repository and open the HTML file in your browser:
 
 ```
-git clone https://github.com/yourusername/rock-paper-scissors.git
+git clone https://github.com/shrushtijadhavv/rock-paper-scissors.git
 cd rock-paper-scissors
 ```
 
