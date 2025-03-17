@@ -42,4 +42,4 @@ Then open `10rockpapersci.html` in your web browser.
 
 ## Live Demo
 
-link : 
+link : https://shrushtijadhavv.github.io/rock-paper-scissors/ 
