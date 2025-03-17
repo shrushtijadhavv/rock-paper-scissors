@@ -40,6 +40,6 @@ cd rock-paper-scissors
 
 Then open `10rockpapersci.html` in your web browser.
 
-## License
+## Live Demo
 
-MIT 
+link : 
